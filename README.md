@@ -69,7 +69,7 @@ The analysis follows a structured 6-step process:
 | 🌍 | **USA dominates** with 20,481 items sold — far ahead of Australia (13,346) |
 | 🚴 | **Top revenue product**: Mountain-200 Black series |
 | 🧦 | **Worst performers**: Socks (L & M) — lowest revenue products |
-| 👥 | **Data quality issue discovered**: Duplicate customer entries inflate individual revenue figures |
+| 👥 | **Data quality issue discovered**: Duplicate customer entries deflate individual revenue figures |
 | 📅 | **Sales timespan**: December 2010 → January 2014 (37 months) |
 | 👴 | **Customer age range**: 70 years between oldest and youngest customer |
 
