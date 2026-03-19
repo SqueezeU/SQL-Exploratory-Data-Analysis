@@ -54,6 +54,10 @@ ON c.customer_key = f.customer_key
 GROUP BY c.customer_key, c.first_name, c.last_name
 ORDER BY total_Revenue DESC
 
+-- Note: Jordan Turner appears twice (customer_key 421 & 2421)
+-- causing deflated revenue when grouping by customer_key
+-- Grouping by first_name/last_name reveals true total: 15,998
+
 -- what is the distribution of sold items across countries
 SELECT
 c.country,
