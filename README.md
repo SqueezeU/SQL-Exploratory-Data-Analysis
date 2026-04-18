@@ -40,7 +40,7 @@ This project follows a structured analysis process that reflects how I approach 
 5. 📊  Magnitude Analysis      →  How do metrics break down by dimension?
 6. 🏆  Ranking Analysis        →  Who are the Top N / Bottom N performers?
 ```
-> This step-by-step approach ensures that analysis is not random, but driven by structure, context, and business relevance. step-by-step approach ensures that analysis is not random, but driven by structure, context, and business relevance.
+> This step-by-step approach ensures that analysis is not random, but driven by structure, context, and business relevance. 
 ---
 
 ## 📂 Project Structure
