@@ -1,6 +1,6 @@
 # 🔍 SQL Exploratory Data Analysis
 
-> **Turning raw data into business insights** — A structured deep-dive into a sales database using SQL Server.
+Analyzing a sales database to uncover customer behavior, product performance, and revenue drivers using SQL.
 
 ---
 
