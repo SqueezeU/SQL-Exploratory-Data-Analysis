@@ -1,7 +1,7 @@
 # 🔍 SQL Exploratory Data Analysis
 
 Analyzing a sales database to uncover customer behavior, product performance, and revenue drivers using SQL.
-
+Focus: turning raw transactional data into business-relevant insights
 ---
 
 ## 📌 Project Overview
@@ -28,7 +28,7 @@ This project applies a **systematic EDA framework** to a fictional bike company'
 
 ## 🧭 EDA Framework
 
-The analysis follows a structured 6-step process:
+This project follows a structured analysis process that reflects how I approach real-world data:
 
 ```
 1. 🗄️  Database Exploration    →  What tables and columns exist?
@@ -38,7 +38,7 @@ The analysis follows a structured 6-step process:
 5. 📊  Magnitude Analysis      →  How do metrics break down by dimension?
 6. 🏆  Ranking Analysis        →  Who are the Top N / Bottom N performers?
 ```
-
+This step-by-step approach ensures that analysis is not random, but driven by structure, context, and business relevance.
 ---
 
 ## 📂 Project Structure
